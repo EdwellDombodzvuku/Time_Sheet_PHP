@@ -34,6 +34,7 @@
 *	 
 *	 Step 3: Inatall the PHPExcel library, place it in the same folder as the software
 *			 (i.e drive:/xampp/htdocs/'software_folder'). 
+*       PHPExcel library link. https://github.com/PHPOffice/PHPExcel
 *
 *	 Step 4: Start the control panel and start the "Aparche server".
 *
