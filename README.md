@@ -31,14 +31,17 @@
 *			 "drive:/xampp/htdocs/'software_folder'"
 *			 ! Check document of other servers (if not Xampp) 
 *			 where to store file
-*	
-*	 Step 3: Start the control panel and start the "Aparche server".
+*	 
+*	 Step 3: Inatall the PHPExcel library, place it in the same folder as the software
+*			 (i.e drive:/xampp/htdocs/'software_folder'). 
 *
-*	 Step 4: open any web browser and type in the address bar 
+*	 Step 4: Start the control panel and start the "Aparche server".
+*
+*	 Step 5: open any web browser and type in the address bar 
 *	 "localhost/excel_program" (localhost/"folder which the program is stored
 *	 i.e not 'xampp' Folder under htdocs")
 *	
-*	 Step 5: UNINSTALL? Delete the folder under "htdocs".
+*	 Step 6: UNINSTALL? Delete the folder under "htdocs".
 *	
 **********************************************************************************
 * -Function
